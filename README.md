@@ -1,4 +1,5 @@
 # :star: My Stats
+<!--START_SECTION:activity-->
 <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=rjworks&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjworks&langs_count=4&count_private=true&theme=gruvbox" />
@@ -6,7 +7,7 @@
 <p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=rjworks&margin-w=28&margin-h=15&theme=chalk"/>
 </p></a></p>
-  
+<!--END_SECTION:activity-->
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=deaf04&logo=Java" />
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=deaf04&logo=PHP" />
