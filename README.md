@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=deaf04&logo=Java" />
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=deaf04&logo=PHP" />
   <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=deaf04&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=deaf04&logo=Python" />
   <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=deaf04&logo=html5" />
 </a></p>
 <p align="center"><a href="#">
